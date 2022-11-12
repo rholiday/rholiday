@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rholiday
+- 👋 Hi, I’m Dr. Rex A. Holiday
 - 👀 I’m interested in higher edcuation, instructional design, and adult learning.
 - 🌱 I’m currently learning HTML.
 - 💞️ I’m looking to collaborate on building eLearning content.
